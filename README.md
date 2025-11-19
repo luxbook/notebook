@@ -1,6 +1,4 @@
-# Lux-Book
+# Introduction
 
-![banner](src/images/banner.png)
-
-![Deploy to Github Pages](https://github.com/luxbook/notebook/actions/workflows/mdbook.yml/badge.svg)
+This page (or) notebook **[LuxBook](https://luxbook.github.io/notebook/)** is about the documentation of _MTLG Group_.
 
