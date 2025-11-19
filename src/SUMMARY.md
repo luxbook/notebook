@@ -2,44 +2,38 @@
 
 ![banner](src/images/banner.png)
 
-- ThesmosHQ-Book is **Proudly** _Made By_ **MTLG Group**.
-
-- This 👉 [Introduction](README.md) can explain about _ThesmosHQ-Book_ and _MTLG Group_.
-
 # MTLG Group
-
-* What is **MTLG** Group?
 
 <br/>
 
 <details>
 <summary>CLICK To see <strong><i>ThesmosHQ-Book by MTLG Group</i></strong></summary>
 
-1. M for Marvelous
+1. [M for Marvelous](notebook/m.md)
    - [Home](notebook/M/README.md)
-   - [Owner](notebook/M/author.md)
+   - [Owner](notebook/M/authors.md)
    - [Projects](notebook/M/SUMMARY.md)
 
-1. T for Thesmos
+1. [T for Thesmos](notebook/t.md)
    - [Home](notebook/T/README.md)
-   - [Owner](notebook/T/author.md)
+   - [Owner](notebook/T/authors.md)
    - [Projects](notebook/T/SUMMARY.md)
 
-1. L for Lux
+1. [L for Lux](notebook/l.md)
    - [Home](notebook/L/README.md)
-   - [Owner](notebook/L/author.md)
+   - [Owner](notebook/L/authors.md)
    - [Projects](notebook/L/SUMMARY.md)
 
-1. G for GraveNation
+1. [G for GraveNation](notebook/g.md)
    - [Home](notebook/G/README.md)
-   - [Owner](notebook/G/author.md)
+   - [Owner](notebook/G/authors.md)
    - [Projects](notebook/G/SUMMARY.md)
 
 </details>
 
 # Copyright
 
-* This page is under [MIT License](notebook/license.md)
+* [MIT License](notebook/license.md)
 
 
 
