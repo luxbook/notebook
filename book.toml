@@ -7,7 +7,7 @@ language = "en"
 text-direction = "ltr"
 
 [rust]
-edition = "2024"
+edition = "2021"
 
 [output.html]
 smart-punctuation = true
