@@ -12,6 +12,7 @@ edition = "2021"
 [output.html]
 smart-punctuation = true
 site-url = "/"
+docs-url = "/docs/"
 git-repository-url = "https://github.com/gravenote/gravenote.github.io"
 edit-url-template = "https://github.com/gravenote/gravenote.github.io/tree/main/"
 hash-files = true
